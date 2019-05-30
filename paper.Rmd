@@ -23,35 +23,6 @@ if(!require('knitr')) install.packages('knitr')
 
 # Resumo
 
-# Intro
-Primeira frase (frase adicionada).
-
-~~Eu~~ adoro *bolo* de **chocolate**
-
-H~2~0
-
-nome^2^
-
-Lista:
-
-- item 1
-
-  - item 1.1
-
-- item 2
-
-- item 3
-
-Lista numerada:
-
-1. item
-
-2. item
-
-3. item
-
-![](figuras/meu_plot.png)
-
 # M&M
 
 ## Coleta de dados
