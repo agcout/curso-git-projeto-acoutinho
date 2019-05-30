@@ -24,6 +24,8 @@ if(!require('knitr')) install.packages('knitr')
 # Resumo
 
 # Intro
+Primeira frase (frase adicionada).
+
 ~~Eu~~ adoro *bolo* de **chocolate**
 
 H~2~0
