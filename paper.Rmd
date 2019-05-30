@@ -26,6 +26,7 @@ if(!require('knitr')) install.packages('knitr')
 # M&M
 
 ## Coleta de dados
+dados serão coletados
 
 ## Análise
 
